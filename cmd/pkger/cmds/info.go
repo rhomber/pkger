@@ -5,7 +5,7 @@ import (
 	"flag"
 	"os"
 
-	"github.com/markbates/pkger"
+	"github.com/rhomber/pkger"
 )
 
 type infoCmd struct {

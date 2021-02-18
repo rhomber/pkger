@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/markbates/pkger/here"
+	"github.com/rhomber/pkger/here"
 	"github.com/stretchr/testify/require"
 )
 

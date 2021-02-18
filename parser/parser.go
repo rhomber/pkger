@@ -11,7 +11,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/markbates/pkger/here"
+	"github.com/rhomber/pkger/here"
 )
 
 var defaultIgnoredFolders = []string{".", "_", "vendor", "node_modules", "testdata"}

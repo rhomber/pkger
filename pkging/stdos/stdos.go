@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/markbates/pkger/here"
-	"github.com/markbates/pkger/internal/maps"
-	"github.com/markbates/pkger/pkging"
+	"github.com/rhomber/pkger/here"
+	"github.com/rhomber/pkger/internal/maps"
+	"github.com/rhomber/pkger/pkging"
 )
 
 var _ pkging.Pkger = &Pkger{}

@@ -5,15 +5,15 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/markbates/pkger/here"
-	"github.com/markbates/pkger/pkging/mem"
+	"github.com/rhomber/pkger/here"
+	"github.com/rhomber/pkger/pkging/mem"
 	"github.com/stretchr/testify/require"
 )
 
 func Test_Pkger_Add(t *testing.T) {
 	r := require.New(t)
 
-	cur, err := here.Package("github.com/markbates/pkger")
+	cur, err := here.Package("github.com/rhomber/pkger")
 	r.NoError(err)
 
 	pkg, err := mem.New(cur)

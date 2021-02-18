@@ -3,8 +3,8 @@ package stdos
 import (
 	"testing"
 
-	"github.com/markbates/pkger/pkging"
-	"github.com/markbates/pkger/pkging/pkgtest"
+	"github.com/rhomber/pkger/pkging"
+	"github.com/rhomber/pkger/pkging/pkgtest"
 )
 
 func Test_Pkger(t *testing.T) {

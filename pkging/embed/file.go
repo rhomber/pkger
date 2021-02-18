@@ -1,8 +1,8 @@
 package embed
 
 import (
-	"github.com/markbates/pkger/here"
-	"github.com/markbates/pkger/pkging"
+	"github.com/rhomber/pkger/here"
+	"github.com/rhomber/pkger/pkging"
 )
 
 type File struct {

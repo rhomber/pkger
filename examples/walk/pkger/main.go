@@ -7,7 +7,7 @@ import (
 	"text/tabwriter"
 	"time"
 
-	"github.com/markbates/pkger"
+	"github.com/rhomber/pkger"
 )
 
 func main() {

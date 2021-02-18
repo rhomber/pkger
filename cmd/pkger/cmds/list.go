@@ -8,8 +8,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/markbates/pkger"
-	"github.com/markbates/pkger/parser"
+	"github.com/rhomber/pkger"
+	"github.com/rhomber/pkger/parser"
 )
 
 type listCmd struct {

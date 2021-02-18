@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/markbates/pkger/here"
-	"github.com/markbates/pkger/pkging"
+	"github.com/rhomber/pkger/here"
+	"github.com/rhomber/pkger/pkging"
 	"github.com/stretchr/testify/require"
 )
 
